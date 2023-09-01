@@ -1,1 +1,1 @@
-# generate-dot-painting
+# generates dots along a 10 row - 10 column grid
